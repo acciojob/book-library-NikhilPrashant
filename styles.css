@@ -25,9 +25,9 @@ h1 {
 	color: #777777;
 }
 
-.price-block {
+.book button {
 	color: white;
-	background: rgb(46, 204, 113);
+	background: #2ecc71;
 	width: 100%;
 	padding: 4px;
 	border: none;
