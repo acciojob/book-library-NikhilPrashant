@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+h1 {
+	display: flex;
+	justify-content: center;
+	background: #f8f8f8;
+	padding: 35px;
+}
+
+.book-library {
+	background: #ffffff;
+}
+
+.book {
+	background: #f8f8f8;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+.book div {
+	display: flex;
+	justify-content: center;
+}
+
+.author {
+	color: #777777;
+}
+
+.price-block {
+	color: white;
+	background: #2ecc71;
+	width: 100%;
+	padding: 4px;
+	border: none;
+	border-radius: 4px;
+}
